@@ -1,2 +1,2 @@
 # Developpement-digital-courses
-All course materials for TSDI program at OFPPT. Lecture notes, assignments, and resources organized by course.
+All course materials for TSDD program at OFPPT. Lecture notes, assignments, and resources organized by course.
